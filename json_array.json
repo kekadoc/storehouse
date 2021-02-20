@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Gena",
+    "surname": "Podmyshkin",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_male_0.png",
+    "age": 33
+  },
+  {
+    "id": "2",
+    "name": "Artur",
+    "surname": "Kotikov",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_male_1.png",
+    "age": 43
+  },
+  {
+    "id": "3",
+    "name": "Igor",
+    "surname": "Karasev",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_male_2.png",
+    "age": 21
+  },
+  {
+    "id": "4",
+    "name": "Viktor",
+    "surname": "Kakadu",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_male_3.png",
+    "age": 35
+  },
+  {
+    "id": "5",
+    "name": "Semen",
+    "surname": "Endov",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_male_4.png",
+    "age": 25
+  },
+  {
+    "id": "6",
+    "name": "Kirill",
+    "surname": "Zaikin",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_male_5.png",
+    "age": 34
+  },
+  {
+    "id": "7",
+    "name": "Sveta",
+    "surname": "Svetikova",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_female_0.png",
+    "age": 71
+  },
+  {
+    "id": "8",
+    "name": "Alla",
+    "surname": "Devonkina",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_female_1.png",
+    "age": 22
+  },
+  {
+    "id": "9",
+    "name": "Kira",
+    "surname": "Zakirova",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_female_2.png",
+    "age": 54
+  },
+  {
+    "id": "10",
+    "name": "Dash",
+    "surname": "Kakasha",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_female_3.png",
+    "age": 48
+  },
+  {
+    "id": "11",
+    "name": "Nastya",
+    "surname": "Kaklkina",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_female_4.png",
+    "age": 17
+  },
+  {
+    "id": "12",
+    "name": "Sonya",
+    "surname": "Fistashkova",
+    "photo": "https://raw.githubusercontent.com/kekadoc/test-images/main/person_female_5.png",
+    "age": 17
+  }
+]
